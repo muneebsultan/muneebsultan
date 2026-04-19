@@ -118,7 +118,7 @@ Building **AI systems that are robust, interpretable, and deployable** in real-w
 ## Documents for Academic Applications
 
 - [CV / Resume (PDF)](./Muneeb_Sultan_CV.pdf) — updated for Master's applications
-- [Research Proposal (DOCX)](./Research_Proposal.docx) — proposed thesis direction in explainable AI / robust deep learning
+- [Research Proposal (PDF)](./Research_Proposal.pdf) — proposed thesis direction in explainable AI / robust deep learning
 
 ---
 
